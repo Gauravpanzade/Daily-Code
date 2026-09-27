@@ -109,6 +109,4 @@ Computer Engineering Student | Python Learner | Aspiring Software Developer
 
 ---
 
-⭐ If you find this repository useful, feel free to explore the code and follow the journey.
-
-Keep Coding 🚀
+⭐ If you find this repository useful, feel free to explore the code and follow the journey

@@ -1,4 +1,4 @@
-💻 Daily Code
+z💻 Daily Code
 
 A collection of my daily coding practice, challenges, experiments, and programming exercises.
 
@@ -105,7 +105,7 @@ It is about consistency, learning from mistakes, and improving over time.
 
 Gaurav
 
-Computer Engineering Student | Python Learner | Aspiring Software Developer
+Computer Engineering Student | Python Learner | 
 
 ---
 

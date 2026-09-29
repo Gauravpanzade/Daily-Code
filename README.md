@@ -1,4 +1,4 @@
-z💻 Daily Code
+💻 Daily Code
 
 A collection of my daily coding practice, challenges, experiments, and programming exercises.
 
@@ -66,12 +66,12 @@ My daily practice may include:
 📈 Progress
 
 Day| Focus| Status
-Day 01| Python Basics| ✅
-Day 02| Conditional Statements| ✅
-Day 03| Loops| ✅
-Day 04| Functions| ✅
-Day 05| Data Structures| ✅
-...| More to come| 🔄
+Day 01| Python Basics| 
+Day 02| Conditional Statements| 
+Day 03| Loops| 
+Day 04| Functions| 
+Day 05| Data Structures|
+...| More to come| 
 
 «The progress table will be updated regularly as I continue my coding journey.»
 
@@ -103,7 +103,7 @@ It is about consistency, learning from mistakes, and improving over time.
 
 👨‍💻 Author
 
-Gaurav
+Gaurav Panzade
 
 Computer Engineering Student | Python Learner | 
 

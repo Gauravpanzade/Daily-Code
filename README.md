@@ -79,8 +79,6 @@ Day 05| Data Structures|
 
 - 🐍 Python
 - 💻 VS Code
-- 🌐 Git
-- 🐙 GitHub
 
 More languages and technologies may be added as I progress.
 

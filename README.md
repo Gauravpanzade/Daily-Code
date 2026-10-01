@@ -70,7 +70,8 @@ Day 01| Python Basics|
 Day 02| Conditional Statements| 
 Day 03| Loops| 
 Day 04| Functions| 
-Day 05| Data Structures|
+Day 05| Data Structures|.  
+
 ...| More to come| 
 
 «The progress table will be updated regularly as I continue my coding journey.»
